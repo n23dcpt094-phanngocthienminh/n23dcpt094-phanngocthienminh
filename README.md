@@ -47,10 +47,7 @@
 ---
 
 ## 📫 Contact Me  
-- 📧 Email: yourname@gmail.com  
-- 🌐 Portfolio: [your-portfolio-link](#)  
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](#)  
-
+- 📧 Email: thienminhphanngoc@gmail.com  
 ---
 
 ⭐ If you like my work, don’t forget to **star** my repositories!
